@@ -1,13 +1,6 @@
 
 &nbsp;<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pthiagodev&layout=compact&theme=nord)]
-</div>
-
-&nbsp;<div align="center">
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pthiagodev&repo=votos-api&theme=nord)](https://github.com/pthiagodev/votos-api)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pthiagodev&repo=bora-marcar&theme=nord)](https://github.com/pthiagodev/bora-marcar)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pthiagodev&repo=meteora&theme=nord)](https://github.com/pthiagodev/meteora)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pthiagodev&repo=projeto-school&theme=nord)](https://github.com/pthiagodev/projeto-school)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pthiagodev&layout=compact&theme=nord)
 </div>
 
 &nbsp;<div align="center">
