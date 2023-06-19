@@ -1,3 +1,7 @@
+&nbsp;<div align="center">
+  ![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,ts,js,html,css,angular,bootstrap)
+  ![My Skills](https://skillicons.dev/icons?i=postgres,mysql,git,docker,jenkins,gradle)
+</div>
 
 &nbsp;<div align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pthiagodev&layout=compact&theme=nord&hide_title=true)
