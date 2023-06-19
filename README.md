@@ -1,3 +1,7 @@
+<h2 align="center">Thiago de Assis</h2>
+<h3 align="center">Entusiasta de tecnologia com experiência em desenvolvimento full stack e automatização de testes.</h3>
+<hr>
+
 &nbsp;<div align="center">
   ![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,ts,js,html,css,angular,bootstrap)
   ![My Skills](https://skillicons.dev/icons?i=postgres,mysql,git,docker,jenkins,gradle)
