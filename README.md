@@ -3,8 +3,7 @@
 <hr>
 
 &nbsp;<div align="center">
-  ![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,ts,js,html,css,angular,bootstrap)
-  ![My Skills](https://skillicons.dev/icons?i=postgres,mysql,git,docker,jenkins,gradle)
+  ![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,ts,js,html,css,angular,bootstrap,git,docker,jenkins,gradle)
 </div>
 
 &nbsp;<div align="center">
