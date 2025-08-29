@@ -7,7 +7,7 @@
 </div>
 
 &nbsp;<div align="center">
-  ![Top Langs]()
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pthiagodev&layout=compact&theme=nord&hide_title=true)
 </div>
 
 &nbsp;<div align="center">
